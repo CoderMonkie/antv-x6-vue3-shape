@@ -42,11 +42,6 @@
     "@antv/x6": "^2.x",
     "vue": "^3.0.0"
   },
-  "peerDependenciesMeta": {
-    "@vue/composition-api": {
-      "optional": true
-    }
-  },
   "devDependencies": {
     "@antv/x6": "^2.x",
     "vue": "^3.0.0"
