@@ -1,4 +1,4 @@
-# @antv/x6-vue-shape
+# antv-x6-vue3-shape
 
 > x6 shape for rendering vue3 components
 
