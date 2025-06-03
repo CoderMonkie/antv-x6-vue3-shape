@@ -18,7 +18,7 @@ $ yarn add antv-x6-vue-shape
 
 ```ts
 import { Graph } from '@antv/x6'
-import 'antv-x6-vue-shape'
+import 'antv-x6-vue3-shape'
 import HelloWord from './HelloWord.vue'
 
 // render
